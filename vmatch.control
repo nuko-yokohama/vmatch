@@ -1,0 +1,5 @@
+# vmatch extension
+comment = 'vague equal expression.'
+default_version = '1.0'
+module_pathname = '$libdir/vmatch'
+relocatable = true
